@@ -1,0 +1,19 @@
+{
+  "name": "@jamesly/learnnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Ly",
+  "license": "ISC",
+  "description": "learning node",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesquietly/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jamesquietly/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/jamesquietly/how-to-npm#readme"
+}
